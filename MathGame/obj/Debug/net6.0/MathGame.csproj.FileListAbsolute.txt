@@ -1,0 +1,15 @@
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\bin\Debug\net6.0\MathGame.exe
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\bin\Debug\net6.0\MathGame.deps.json
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\bin\Debug\net6.0\MathGame.runtimeconfig.json
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\bin\Debug\net6.0\MathGame.dll
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\bin\Debug\net6.0\MathGame.pdb
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\MathGame.csproj.AssemblyReference.cache
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\MathGame.AssemblyInfo.cs
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\MathGame.dll
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\refint\MathGame.dll
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\MathGame.pdb
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\MathGame.genruntimeconfig.cache
+C:\Users\allison.mchugh\source\repos\MathGame\MathGame\obj\Debug\net6.0\ref\MathGame.dll
